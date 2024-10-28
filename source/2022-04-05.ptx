@@ -2,11 +2,20 @@
     <title>2022-04-05 Indecomposability and fine Selmer groups</title>
     <p>
         Indecomposability and fine Selmer groups
-        Let <m>p</m> be a fixed prime, <m>F</m> a totally real field, <m>F_\infty/F</m> the cyclotopic <m>\mathbb Z_p</m>-extension. Then, the Iwasawa Main Conjecture for<m>F_\infty/F</m> is known when <m>p</m> is odd. If <m>F</m> is not abelian, then the <m>\mu=0</m> conjecture is not known. If<m>F</m> is abelian, then the validity of <m>\mu=0</m> conjecture implies that the fine selmer group for <m>F_\infty/F</m>, denoted as <m>R(F_\infty/F)</m> is finitely generated over <m>\mathbb Z_p</m>. 
+        Let <m>p</m> be a fixed prime, <m>F</m> a totally real field, <m>F_\infty/F</m> the cyclotopic <m>\mathbb Z_p</m>-extension. 
+        Then, the Iwasawa Main Conjecture for<m>F_\infty/F</m> is known when <m>p</m> is odd. 
+        If <m>F</m> is not abelian, then the <m>\mu=0</m> conjecture is not known. 
+        If<m>F</m> is abelian, then the validity of <m>\mu=0</m> conjecture implies that the fine selmer group for <m>F_\infty/F</m>, 
+        denoted as <m>R(F_\infty/F)</m> is finitely generated over <m>\mathbb Z_p</m>. 
     </p>
     <p>
-        Natural question is how to prove the finite generation of <m>R(F_\infty/F)</m> without proving <m>\mu=0</m> conjecture in the main conjecture. Here is a vague idea. The main conjecture in this case is proved by Wiles using Deligne-Ribet<m>p</m>-adic<m>L</m>-function and Eisenstein congruences. That is to say, suitable extensions are constructed using Galois representation <m>\rho</m> of a Hilbert cuspform whose reduction modulo some power of the maximal ideal is upper-triangular. Classes in<m>R(F_\infty/F)</m> correspond to those extensions that split at places above<m>p</m>. That is to say, the 
-        <m>\rho</m> is locally decomposable at places above <m>p</m>, at least taking a reduction.
+        Natural question is how to prove the finite generation of <m>R(F_\infty/F)</m> without proving <m>\mu=0</m> conjecture in the main conjecture. 
+        Here is a vague idea. 
+        The main conjecture in this case is proved by Wiles using Deligne-Ribet<m>p</m>-adic<m>L</m>-function and Eisenstein congruences. 
+        That is to say, suitable extensions are constructed using Galois representation <m>\rho</m> of a Hilbert cuspform whose reduction modulo 
+        some power of the maximal ideal is upper-triangular. 
+        Classes in<m>R(F_\infty/F)</m> correspond to those extensions that split at places above <m>p</m>. 
+        That is to say, the <m>\rho</m> is locally decomposable at places above <m>p</m>, at least taking a reduction.
     </p>
     <p>
         Hida showed local indecomposability of non-CM Hilbert cusp forms. I heard of some rumors that his initial proof had some errors and he fixed them. A recent exposition is <url href="https://arxiv.org/abs/1807.02499" visual="arXiv:1807.02499"/> with an appendix by Hida.
