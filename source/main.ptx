@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
   
   <article xml:id="research-log">
-    <title>research logs</title>
+    <title>research log</title>
     <xi:include href="./2022-04-05.ptx" />
     <xi:include href="./2022-02-22.ptx" />
     
