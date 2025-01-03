@@ -4,6 +4,7 @@
         Ramanujan discovered some identities regarding units in Kummer extensions. I wonder if they can be explained.
     </p>
     <p>
-        Some identities, simpler than Ramanujan's, can be explained. Let <m>e_d</m> be the fundamental unit in the real quadratic field of discriminant <m>d</m>
+        Some identities, simpler than Ramanujan's, can be explained. Let <m>e_d</m> be the fundamental unit in the real quadratic field of discriminant <m>d</m>.
+        Then, if <m>d_1d_2d_3=f^2</m>, then <m>e_{d_1} e_{d_2} e_{d_3}</m> is a square. One can test it with <m>(d_1,d_2,d_3)=(2,5,10)</m>. Such result can be explained in terms of a product formula for artin symbols in nonabelian extensions. Refer to Soseki's paper arXiv:2312.03949 Theorem 4.
     </p>
 </section>
